@@ -1,2 +1,1 @@
-# A clone site
- An Intergrify project
+https://stbugyei.github.io/A-clone-site.github.io/
